@@ -104,7 +104,7 @@ ZMK_UNICODE_SINGLE(euro_sign, N2, N0, A, C)  // €
             bindings = <
          &kp TAB      &kp EXCL  &kp AT   &kp HASH          &kp DLLR          &kp PRCNT     &kp PLUS    &kp LEFT_BRACE    &kp RIGHT_BRACE  &kp KP_MULTIPLY  &kp CARET   &kp BSPC
   &kp LEFT_SHIFT     &kp QMARK   &de_eszett  &kp GRAVE  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES    &kp MINUS          &kp LPAR           &kp RPAR    &kp AMPERSAND   &kp BSLH  &kp SLASH
-&kp LEFT_CONTROL  &kp LEFT_ALT   &kp P      &euro_sign     &kp LESS_THAN   &kp GREATER_THAN    &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET        &kp UNDER   &kp PIPE  &kp TILDE
+&kp LEFT_CONTROL  &kp LEFT_ALT   &de_paragr      &euro_sign     &kp LESS_THAN   &kp GREATER_THAN    &kp EQUAL  &kp LEFT_BRACKET  &kp RIGHT_BRACKET        &kp UNDER   &kp PIPE  &kp TILDE
                                          &kp LGUI            &trans          &kp SPACE      &kp RET            &trans           &kp RALT
             >;
         };
